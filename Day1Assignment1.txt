@@ -1,0 +1,134 @@
+A. Data Types
+
+Objective: Practice using different primitive and non-primitive data types.
+
+Assignment 1 – Weekly Sleep Tracker
+
+Store sleep hours for each day (monSleep, tueSleep, …) as int or float and calculate average sleep hours.
+
+Assignment 2 – Friends’ Birthday Reminder
+
+Store birthdays of three friends using int variables for day, month, year, and print whose birthday comes first.
+
+Assignment 3 – Daily Calorie Tracker
+
+Store calories consumed each day (monCalories, tueCalories, …) and calculate total and average calories.
+
+Assignment 4 – Wallet Balance Management
+
+Use int or float variables for balance, depositAmount, withdrawAmount and update balance after each transaction.
+
+Assignment 5 – Rent Split Calculator
+
+Use int or float for totalRent and each roommate’s share percentage to calculate individual shares.
+
+=================================================================================================================================
+B. Type Conversion
+
+Objective: Practice implicit (widening) and explicit (narrowing) type conversions.
+
+Assignment 6 – Fuel Tracker
+
+Store fuel consumed per trip using int or float variables (trip1Fuel, trip2Fuel, …).
+
+Convert int to float to calculate total weekly fuel consumption.
+
+Assignment 7 – Heart Rate Tracker
+
+Store daily heart rates (monHR, tueHR, …) as int.
+
+Convert to float if needed for advanced calculations like average or percentage changes.
+
+Assignment 8 – Screen Time Calculator
+
+Store daily screen time in float variables and calculate total weekly screen time.
+
+=======================================================================================================
+
+C. Conditional Statements (if-else, ternary, switch-case)
+
+Objective: Make decisions using conditions.
+
+Assignment 9 – Discount Eligibility Checker
+
+Use age (int) and isMember (boolean) to check discount eligibility.
+
+Assignment 10 – Daily Study Hour Checker
+
+Use int variables (monHours, tueHours, …) to check if each day meets the study goal.
+
+Assignment 11 – Attendance Checker
+
+Store attendance of 5 students (student1Attendance, …) and print who has >90% using if-else.
+
+Assignment 12 – Step Challenge Tracker
+
+Compare daily steps with goal using if-else or ternary operators and print motivational messages.
+
+Assignment 13 – Water Intake Monitor
+
+Use if-else to warn if daily water intake is below the recommended amount.
+
+Assignment 14 – Friends’ Heart Rate Tracker
+
+Compare each day’s heart rate and print highest/lowest using if-else.
+
+Assignment 15 – Discount Mode Using Switch (Optional Extension)
+
+Assign discount based on membership type (Silver/Gold/Platinum) using switch-case.
+
+=========================================================================================
+
+D. Loops (for, while, do-while)
+
+Objective: Practice repetition using loops.
+
+Assignment 16 – Movie Ticket Booking System
+
+Use a variable totalSeats and loop to update remaining seats as bookings happen.
+
+Assignment 17 – Game Score Tracker
+
+Use loops to compare scores of multiple players and find the winner.
+
+Assignment 18 – Weekly Electricity Usage Calculator
+
+Use loop to calculate usage for 5 months from variables month1Reading … month5Reading.
+
+Assignment 19 – Daily Screen Time Calculator
+
+Loop through daily screen time variables (monDevice1Time, …) to calculate total weekly time.
+
+Assignment 20 – Garbage Collection Reminder
+
+Loop through boolean variables (day1Collected, …) and notify if a day was missed.
+
+===================================================================================
+
+E. Labels & Nested Loops
+
+Objective: Learn labeled break and continue.
+
+Assignment 21 – Garden Watering Scheduler
+
+Use labeled loops for days of the week (monSoilDry, …) and skip watering if soil is not dry.
+
+Assignment 22 – Employee Task Tracker
+
+Compare tasks completed by employees (emp1Tasks, emp2Tasks, emp3Tasks) using loops.
+
+Use labeled continue to skip employees with zero tasks.
+
+Assignment 23 – Meeting Scheduler
+
+Use boolean variables (slot1Available, …) in loops to check slot availability.
+
+Use break to stop checking once a free slot is found.
+
+Assignment 24 – Project Milestone Tracker
+
+Use variables (milestone1Completed, …) and loop to check milestones.
+
+Use labeled break to stop further checks after critical milestone is achieved.
+
+==========================================================================================
